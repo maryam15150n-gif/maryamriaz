@@ -1,0 +1,7 @@
+Assignment 1 - Cloud Computing
+
+This file is uploaded to a public GitHub repository as part of the assignment.
+The repository demonstrates how to create an account, make a repository, 
+and upload a file to the public domain using GitHub.
+
+-- End of File --
